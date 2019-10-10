@@ -71,3 +71,10 @@ Control Statements
   - input is an address
   - needs to be checked for all the values that it can take
 - NB good idea to have a default case
+
+### While
+- executes code within it repeatedly if the condition it is assigned to check returns true
+- used in test benches
+
+### For Loop
+-
