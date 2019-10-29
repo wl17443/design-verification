@@ -1,0 +1,32 @@
+m255
+K4
+z2
+!s11f vlog 2019.2 2019.04, Apr 17 2019
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/anhelka/Documents/design-verification/assignment-one
+vexample_calc1_tb
+!s110 1572306545
+!i10b 1
+!s100 XXFEZdV]iBnl]PC^QE;RX2
+!s11b >QT;f`ThNN?Z0cNcJlCK?1
+IkB=1Ga]>FFO64;L2Q^SLi2
+VDg1SIo80bB@j0V0VzS_@n1
+d/home/anhelka/Documents/design-verification/calc1
+w1571151456
+8/home/anhelka/Documents/design-verification/calc1/example_calc1_tb.v
+F/home/anhelka/Documents/design-verification/calc1/example_calc1_tb.v
+L0 3
+OV;L;2019.2;69
+r1
+!s85 0
+31
+!s108 1572306545.000000
+!s107 /home/anhelka/Documents/design-verification/calc1/example_calc1_tb.v|
+!s90 -reportprogress|300|-work|calc|-stats=none|/home/anhelka/Documents/design-verification/calc1/example_calc1_tb.v|
+!i113 1
+o-work calc
+tCvgOpt 0
